@@ -1,4 +1,4 @@
-## Synopsis
+## Synopsis [![Build Status][ci-img]][ci]
 
 Defines an interface for loggers and stats reporters that can be passed to Uber Go libraries.  
 Provides implementations which wrap a common logging module, [logrus](https://github.com/Sirupsen/logrus), 
