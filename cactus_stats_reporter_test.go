@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/uber-common/bark"
-	"github.com/uber-common/bark/mocks"
+	"github.com/bryndin/bark"
+	"github.com/bryndin/bark/mocks"
 )
 
 func TestBarkCactusStatsReporter(t *testing.T) {

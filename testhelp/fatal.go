@@ -23,7 +23,7 @@ import
 	"os"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/uber-common/bark"
+	"github.com/bryndin/bark"
 )
 
 func main() {
