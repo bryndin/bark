@@ -1,4 +1,4 @@
-## Synopsis [![Build Status][ci-img]][ci]
+## Synopsis [![Build Status](https://travis-ci.org/bryndin/bark.svg?branch=master)](https://travis-ci.org/bryndin/bark)
 
 Defines an interface for loggers and stats reporters that can be passed to Uber Go libraries.  
 Provides implementations which wrap a common logging module, [logrus](https://github.com/Sirupsen/logrus), 
